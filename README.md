@@ -10,6 +10,27 @@ Hice el bachillerato en el I.E.S Triana, en la modalidad bachibac, obteniendo ta
 
 Estoy interesado en el mundo de la informática y la historia. 
 
+**DATOS**
+
+* IES Rodrigo Caro
+    * Grado Superior en ASIR
+
+* IES Triana
+    * Bachillerato de ciencias sociales | Septiembre 2016 - Julio 2018
+
+**HABILIDADES**
+
+* Buena comunicación
+* Resolución de problemas
+* Dominio del ordenador
+* Agilidad con los resultados
+
+**IDIOMAS**
+
+* Castellano: Nativo
+* Inglés: Nivel alto
+* Francés: Nivel B1
+
 ## Contactarme en:
 
 [![Email](https://img.shields.io/badge/javierglezmarin99@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:javierglezmarin99@gmail.com)
