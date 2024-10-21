@@ -8,7 +8,7 @@ Tengo 24 años y actuálmente estoy estudiando un grado superior de Administraci
 
 Hice el bachillerato en el I.E.S Triana, en la modalidad bachibac, obteniendo tanto la certificación del bachillerato español como el baccalauréat frances
 
-Estoy interesado en el mundo de la informática y la historia. 
+Estoy interesado en el mundo de la informática y la historia y me cosnidero una persona con muchas gansa de aprender. 
 
 **DATOS ACADEMICOS**
 
