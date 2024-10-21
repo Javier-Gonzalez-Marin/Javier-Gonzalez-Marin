@@ -12,11 +12,10 @@ Estoy interesado en el mundo de la informática y la historia.
 
 **DATOS ACADEMICOS**
 
-* IES Rodrigo Caro
-    * Grado Superior en ASIR
-
-* IES Triana
-    * Bachillerato de ciencias sociales | Septiembre 2016 - Julio 2018
+| Centro Educativo | Titulación | Fechas |
+|---|---|---|
+| IES Rodrigo Caro | Grado Superior en ASIR |  |
+| IES Triana | Bachillerato de Ciencias Sociales | Septiembre 2016 - Julio 2018 |
 
 **HABILIDADES**
 
