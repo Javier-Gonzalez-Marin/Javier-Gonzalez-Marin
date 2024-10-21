@@ -15,7 +15,7 @@ Estoy interesado en el mundo de la informática y la historia.
 | Centro Educativo | Titulación | Fechas |
 |---|---|---|
 | IES Rodrigo Caro | Grado Superior en ASIR | 2023 - 2025 |
-| IES Triana | Bachillerato de Ciencias Sociales | Septiembre 2016 - Julio 2018 |
+| IES Triana | Bachillerato de Ciencias Sociales |  2016 -  2018 |
 
 **HABILIDADES**
 
