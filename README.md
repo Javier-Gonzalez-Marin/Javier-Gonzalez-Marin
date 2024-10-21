@@ -10,7 +10,7 @@ Hice el bachillerato en el I.E.S Triana, en la modalidad bachibac, obteniendo ta
 
 Estoy interesado en el mundo de la informática y la historia. 
 
-**DATOS**
+**DATOS ACADEMICOS**
 
 * IES Rodrigo Caro
     * Grado Superior en ASIR
@@ -29,7 +29,7 @@ Estoy interesado en el mundo de la informática y la historia.
 
 * Castellano: Nativo
 * Inglés: Nivel alto
-* Francés: Nivel B1
+* Francés: Nivel B2
 
 ## Contactarme en:
 
