@@ -24,11 +24,12 @@ Estoy interesado en el mundo de la informática y la historia.
 * Dominio del ordenador
 * Agilidad con los resultados
 
-**IDIOMAS**
+> **IDIOMAS**
+> 
+> **Castellano**: Nativo  
+> **Inglés**: Nivel alto  
+> **Francés**: Nivel B2
 
-* Castellano: Nativo
-* Inglés: Nivel alto
-* Francés: Nivel B2
 
 ## Contactarme en:
 
