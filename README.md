@@ -1,4 +1,4 @@
-##Curriculum de Javier González
+## Curriculum de Javier González
 
 ### Hola, mi nombre es Javier González Marín 👋 
 
